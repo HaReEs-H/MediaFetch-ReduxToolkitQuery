@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Janu"
+    },
+    {
+      "id": "060e",
+      "name": "Hugh O'Connell"
+    }
+  ],
+  "albums": [
+    {
+      "id": "9",
+      "title": "Reading",
+      "userId": 1
+    },
+    {
+      "id": "b0c3",
+      "title": "Elegant Cotton Chicken",
+      "userId": "060e"
+    },
+    {
+      "id": "3942",
+      "title": "Small Wooden Fish",
+      "userId": null
+    }
+  ],
+  "photos": [
+    {
+      "id": "4c36",
+      "albumId": "9",
+      "url": "https://loremflickr.com/150/150/abstract?lock=7808125233004544"
+    },
+    {
+      "id": "ad5e",
+      "albumId": "9",
+      "url": "https://loremflickr.com/150/150/abstract?lock=2954667761860608"
+    },
+    {
+      "id": "6046",
+      "albumId": "3942",
+      "url": "https://loremflickr.com/150/150/abstract?lock=1223187964624896"
+    },
+    {
+      "id": "5e47",
+      "albumId": "b0c3",
+      "url": "https://loremflickr.com/150/150/abstract?lock=6946463275810816"
+    },
+    {
+      "id": "1ed1",
+      "albumId": "b0c3",
+      "url": "https://loremflickr.com/150/150/abstract?lock=5317313777631232"
+    }
+  ]
+}
